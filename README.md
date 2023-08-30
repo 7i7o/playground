@@ -1,2 +1,3 @@
-# playground
-Testing playground for small scritps and notes
+# Playground
+
+Testing playground for small scripts and notes
